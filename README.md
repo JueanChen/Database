@@ -86,11 +86,8 @@ In addition to functionality, robustness and flexibility of your implemented sol
   
 
 
-![](03%20GitHub%20Repository/images/feature-graphs.jpg)
-
 # 
 ### Task 4: Persistent Storage
- <a href='04%20Persistent%20Storage/slides/segment-1.pdf' target='_blank'> ![](../../resources/icons/slides.png) </a> <a href='04%20Persistent%20Storage/video/segment-1.mp4' target='_blank'> ![](../../resources/icons/video.png) </a>
 
 Any database system must be able to persistently store data (otherwise it will lose everything each time it is restarted).
 In this assignment, you must use the file system for this purpose.

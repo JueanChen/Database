@@ -108,7 +108,6 @@ You should treat column names as case insensitive for querying, but you should _
 This is so that the user can define attribute names using CamelCase if they wish (which is a useful aid to readability).  
 
 
-![](04%20Persistent%20Storage/images/table.jpg)
 
 **Hints & Tips:**  
 As a useful starting point, your first task is to write a method that reads in the data from the
@@ -149,8 +148,6 @@ For simplicity, no primary or foreign key marker keywords are provided in the qu
 It is _not_ your responsibility to normalise the database - this is a job for the developers who have designed the database schema and who make use of your database server. If you don't know what normalisation is, then don't worry - you don't need to know for this assignment.
   
 
-
-![](05%20Maintaining%20Relationships/images/sheds.jpg)
 
 # 
 ### Task 6: Java Data Structures
